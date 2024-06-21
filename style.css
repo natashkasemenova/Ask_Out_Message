@@ -1,0 +1,101 @@
+body
+{
+    margin: 0;
+    padding: 0;
+    background: #000;
+}
+
+.base
+{
+ 
+    position: absolute;
+    top: 40%;
+    left: 14%;
+
+}
+
+i{
+    color: #270726;
+    font-size: 170px;
+    animation: b-anim 1.1s infinite;
+    text-shadow:
+       0 0 5px rgb(111, 21, 150),
+       0 0 45px rgb(111, 21, 150),
+       0 0 90px rgb(111, 21, 150)
+}
+
+@keyframes b-anim
+{
+    0%{
+        transform: scale(1);
+
+    }
+    20%{
+        transform: scale(1.15);
+
+    }
+    40%{
+        transform: scale(1.4);
+    }
+}
+
+/*------------------------------------------------------------------------------------------------------------------*/
+
+
+.italic 
+{
+   font-style: italic;
+   font-weight: bold;
+}
+
+#noButton 
+{
+    position: absolute;
+    top: 50%;
+    margin-left: 150px;
+    transition: 0.5s;
+}
+
+#yesButton 
+{
+    position: absolute;
+    top: 50%;
+    margin-right: 150px;
+}
+
+.h-text 
+{
+    font-family: 'italic';
+    font-size: 40px;
+    font-weight: bold;
+    color: #aba5a5;
+    text-align: center;
+    margin-top: 50px;
+    margin-bottom: 0;
+}
+
+.buttons 
+{
+    display: flex;
+    font-family: 'italic';
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    margin-left: 20px;
+}
+
+.btn 
+{
+    background-color: #aba5a5;
+    color: rgb(111, 21, 150);
+    padding: 20px 40px;
+    text-align: center;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    border: none;
+    border-radius: 12px;
+    transition: background-color 0.3s ease;
+}
+

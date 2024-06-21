@@ -1,0 +1,33 @@
+body 
+{
+    background: #aba5a5;;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 100px;
+  }
+  
+  .h-text 
+  {
+    font-family: 'italic';
+    font-size: 60px;
+    font-weight: bold;
+    color: #ffffff;
+    text-align: center;
+    margin-top: 100px;
+    font-style: italic;
+  }
+  
+  .gif-container 
+  {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .italic 
+  {
+    font-style: italic;
+    font-weight: bold;
+  }
+  
