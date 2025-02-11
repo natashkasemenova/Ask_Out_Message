@@ -2,9 +2,9 @@
 
 ## index page
 
-![photo_2024-06-21_11-39-31](https://github.com/natashkasemenova/Ask_Out_Message/assets/144455625/b6713a4c-3138-43de-a72d-1dbed9def097)
-
+![Image](https://github.com/natashkasemenova/Ask_Out_Message/blob/d3d3e351914bf1900eb4c796b9badec58c783d88/Page1Result.png)
 
 ## "Yes" page
 
-![photo_2024-06-21_11-44-48](https://github.com/natashkasemenova/Ask_Out_Message/assets/144455625/84c9ad6e-9696-45fe-8624-dd54bccc3165)
+![Image](https://github.com/natashkasemenova/Ask_Out_Message/blob/d3d3e351914bf1900eb4c796b9badec58c783d88/Page2Result.png)
+
